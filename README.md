@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhifxu
+- 👋 Hi, I’m zhifxu
 - 👀 I’m interested in System security, Deep learning
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
